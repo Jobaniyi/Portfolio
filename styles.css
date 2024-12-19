@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Navigation */
+header {
+    background: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.theme-switch {
+    float: right;
+}
+
+/* Sections */
+section {
+    padding: 2em;
+    margin: 1em 0;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#home {
+    text-align: center;
+}
+
+/* Projects */
+.project {
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #ddd;
+    background: #f9f9f9;
+}
+.project h3 {
+    margin-top: 0;
+}
+.project a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background: #333;
+    color: #fff;
+}
