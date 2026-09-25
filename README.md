@@ -22,6 +22,16 @@ A sanitized technical case study showing:
 
 The case study intentionally excludes proprietary strategy logic, risk/authority details, internal research, credentials and operational infrastructure.
 
+## Second case study
+
+### [SMOG EDUTECH — STEM Education Systems & Delivery](projects/smog-edutech/)
+
+**Role:** Founder / Lead STEM Consultant
+
+SMOG EDUTECH combines curriculum design, teacher enablement, school implementation and education-product thinking. The work includes a 10-month public-school pilot, curriculum architecture aligned to Nigerian education requirements, teacher-training systems, and the evolving Teacher OS (TOS) concept for structured STEM delivery.
+
+The case study shows how I apply product and systems thinking outside fintech: translating learning goals into repeatable delivery workflows, teacher tools and scalable school programmes.
+
 ## Other public work
 
 - [STEM Education Curriculum Development](https://github.com/Jobaniyi/STEM-Education-Curriculum-Development)
